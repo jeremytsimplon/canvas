@@ -12,3 +12,8 @@ ctx.fillRect(175,130, 50,50); // position et taille du premier carré
 ctx.fillStyle= "rgb(7, 8, 119)"; // couleur du second carré
 ctx.fillRect(175,220,50,50); // position du second carré
 ctx.stroke();
+
+
+function website() {
+  window.location.href="http://boulogne.simplon.co";
+}
